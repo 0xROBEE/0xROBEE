@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=9B85FF&center=true&vCenter=true&width=560&lines=Hi,+I'm+ROBEE;Front-end+developer;Building+Rarvon,+free+tools+for+your+files;Learning+Chinese" alt="Hi, I'm ROBEE" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=9B85FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+ROBEE;Front-end+developer;Building+Rarvon;Learning+Chinese" alt="Hi, I'm ROBEE" />
 
 <p>
   <a href="https://www.youtube.com/@Oxrobee"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
