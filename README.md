@@ -1,32 +1,67 @@
-<h1 align="center">Hello 👋, I'm ROBEE</h1>
-<h3 align="center">am front end developer</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **chinese**
-<br />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=9B85FF&center=true&vCenter=true&width=560&lines=Hi,+I'm+ROBEE;Front-end+developer;Building+Rarvon,+free+tools+for+your+files;Learning+Chinese" alt="Hi, I'm ROBEE" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@Oxrobee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="$aravan" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/jEJWzn2dXv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/25PJfG6WyP" height="30" width="40" /></a>
+<p>
+  <a href="https://www.youtube.com/@Oxrobee"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://discord.gg/jEJWzn2dXv"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ROBEE404&color=9B85FF&style=for-the-badge&label=Profile+views" alt="Profile views" />
 </p>
 
-## GitHub Stats | Statistiques GitHub
+</div>
 
-| Most used languages \| Langages les plus utilisés | Streaks |
-| --- | --- |
-| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROBEE404&theme=onedark&hide_title=true&show_icons=true&layout=compact&bg_color=00000000&border_color=00000000) | ![Streaks](https://github-readme-streak-stats.herokuapp.com?user=aravns&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=00000000) |
+## 👋 About me
 
-| Stats | Trophies  \| Trophés |
-| --- | --- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=ROBEE404&theme=onedark&show_icons=true&count_private=true&hide_title=true&bg_color=00000000&border_color=00000000) | ![Trophees](https://github-profile-trophy.vercel.app/?username=aravns&theme=onedark&column=3&no-frame=true&no-bg=true) |
+- 💻 Front-end developer who cares about clean, fast and friendly interfaces
+- 🦀 Exploring Rust for desktop apps
+- 🐧 Linux user (Niri)
+- 🌱 Currently learning **Chinese**
+- 💬 Ask me about React, TypeScript and UI design
 
-## Time spent programming | Temps passé à programer
-Data from Wakatime, based on recent activity
+## ✦ Featured project
 
-Données de Wakatime, basées sur mon activité récente
+<div align="center">
+  <a href="https://github.com/ROBEE404/RARVON">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ROBEE404/RARVON/HEAD/design/brand/rarvon-final/png/rarvon-logo-for-dark@2x.png">
+      <img src="https://raw.githubusercontent.com/ROBEE404/RARVON/HEAD/design/brand/rarvon-final/png/rarvon-logo-for-light@2x.png" alt="Rarvon" width="300">
+    </picture>
+  </a>
+  <p><b>Free tools for your files. No ads. No account. Nothing uploaded.</b><br>
+  PDFs, images, video, audio and text: 50+ tools that run entirely on your own device.<br>
+  In English and Arabic, in the browser or as a desktop app for Windows and Linux.</p>
+  <a href="https://github.com/ROBEE404/RARVON"><img src="https://img.shields.io/badge/View_project-9B85FF?style=for-the-badge&logo=github&logoColor=white" alt="View project" /></a>
+  <a href="https://github.com/ROBEE404/RARVON/releases"><img src="https://img.shields.io/badge/Download_the_app-F2A33A?style=for-the-badge&logo=windows&logoColor=white" alt="Download" /></a>
+</div>
 
-![Chart](https://wakatime.com/share/@de39daa2-6ae7-4a9e-a298-bb0b74a86e3e/fa276e06-37dd-44e9-b40e-e2d57181b084.svg)
+## 🛠️ Tech I use
 
-![Snake](https://raw.githubusercontent.com/ROBEE404/GoudronViande24/output/contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,rust,git,github,linux,vscode,figma&perline=7" alt="My skills" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=ROBEE404&color=06476d&style=flat-square&label=Views%20/%20Vues)
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ROBEE404&show_icons=true&count_private=true&hide_title=false&theme=transparent&hide_border=true&title_color=9B85FF&icon_color=F2A33A" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBEE404&layout=compact&theme=transparent&hide_border=true&title_color=9B85FF" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ROBEE404&theme=transparent&hide_border=true&ring=9B85FF&fire=F2A33A&currStreakLabel=9B85FF" alt="GitHub streak" />
+</p>
+
+## ⏱️ Coding time
+
+<p align="center">
+  <img src="https://wakatime.com/share/@de39daa2-6ae7-4a9e-a298-bb0b74a86e3e/fa276e06-37dd-44e9-b40e-e2d57181b084.svg" alt="WakaTime chart" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ROBEE404/ROBEE404/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/ROBEE404/ROBEE404/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
+<p align="center"><i>Thanks for stopping by ✦</i></p>
